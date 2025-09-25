@@ -1,4 +1,3 @@
-```markdown
 ## 📅 **12/09/2025**
 
 ### 🔧 **PR #240: fix: fixing mobile menu style**
@@ -603,4 +602,4 @@ OPEN
 - Melhorias implementadas: Usabilidade, segurança, design e funcionalidades.
 - Problemas resolvidos: Bugs visuais, problemas de scroll e links quebrados.
 - Valor agregado ao projeto: Novas funcionalidades, melhorias na experiência do usuário e manutenção do código.
-```
+
