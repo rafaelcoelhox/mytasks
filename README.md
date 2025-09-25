@@ -357,21 +357,7 @@ Facilita a criação de conteúdo ao permitir o upload de imagens via Ctrl+V e d
 #### 📊 **Status:**
 OPEN
 
-## 📊 **Resumo Executivo do Período**
 
-### 🏆 **Principais Entregas:**
-- Implementação de um componente genérico de upload de imagem (PR #269).
-- Implementação da feature de troca de ticket por análise do LinkedIn (PR #265).
-- Melhora na validação do usuário antes da troca de XP e adição do link do LinkedIn ao corpo do email enviado (PR #266).
-- Refatoração da view do Incubador (PR #260).
-- Melhorias na página do Market (PR #254).
-
-### 🚀 **Tecnologias Utilizadas:**
-- HTML
-- CSS
-- JavaScript
-- API do LinkedIn
-- Tailwind CSS
 
 ### 📈 **Métricas de Impacto:**
 - Melhorias implementadas: Usabilidade, segurança, design e funcionalidades.
